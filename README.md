@@ -6,6 +6,7 @@
  The program requires an API Key to OpenAI. Place your key at the top of both read.py and chat.py files. Alternatively, add your key to your environment variables.
  
  The code is written in Python, and requires quite a few dependencies, run the following command to install all required modules.
+*** 
 
 ### Installation
 

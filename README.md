@@ -43,9 +43,9 @@
     OPENAI_API_KEY=your_openai_api_key
     ```
 ***
-:::Note
-If you are on a Windows machine, replace requirements.txt with requirements_windows.txt. You will also need to install Microsoft C++ Build Tools (visualstudio.microsoft.com/visual-cpp-build-tools)
-:::
+> [!NOTE]
+> If you are on a Windows machine, replace requirements.txt with requirements_windows.txt. You will also need to install Microsoft C++ Build Tools (visualstudio.microsoft.com/visual-cpp-build-tools)
+
 ***
 
 ## Running the Application
